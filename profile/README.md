@@ -1,7 +1,7 @@
 ## ISEL - Instituto Superior de Engenharia de Lisboa
 ### Languages and Managed Runtimes / Linguagens e Ambientes de Execução
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/isel-leic-ave/info/blob/main/README.md)
-[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-ave/info/blob/main/README.pt.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/isel-leic-ave/.github/blob/main/profile/README.md)
+[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-ave/.github/blob/main/profile/README.pt.md)
 
 #### Institutional information
 * [Official course unit information](https://isel.pt/en/leic/languages-and-managed-runtimes)
