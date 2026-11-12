@@ -35,8 +35,8 @@ Luís Falcão Cascalheira, 120 horas [2108] Fernanda Gonçalves de Oliveira Pass
 Os estudantes que terminam com sucesso esta unidade curricular serão capazes de:
 
 1. Comparar e utilizar diferentes construções comuns em linguagens de
-   programação modernas, enquadrando diferentes paradigmas de programação, e o
-   seu suporte no ambiente de execução.
+   programação modernas (tais como Java e Kotlin), enquadrando diferentes
+   paradigmas de programação, e o seu suporte no ambiente de execução.
 
 2. Entender os principais constituintes de um ambiente de execução para
    linguagens de alto nível, e saber comparar diferentes abordagens de sistemas
@@ -45,17 +45,18 @@ Os estudantes que terminam com sucesso esta unidade curricular serão capazes de
 3. Usar metadados em tempo de execução (reflexão) para examinar tipos e usar
    metaprogramação para analisar e transformar programas em tempo de execução.
 
-4. Analisar o desempenho de programas managed e usar eficientemente o suporte
-   automático de gestão de memória (garbage collection ).
+4. Analisar o desempenho de programas _managed_ (controlados) e usar
+   eficientemente o suporte automático de gestão de memória (_garbage
+   collection_).
 
 ## 10. Intended learning outcomes (knowledge, skills and competences to be developed by the students)
 
 A student completing this course unit should be able
 to:
 
-1. Compare and use different common constructs in modern programming languages,
-   mapping different programming paradigms, and their support in the execution
-   environment.
+1. Compare and use different common constructs in modern programming languages
+   (such as Java and Kotlin), mapping different programming paradigms, and their
+   support in the execution environment.
 
 2. Understand the main constituents of managed runtimes, and know how to compare
    different type systems approaches in these environments.
@@ -69,25 +70,25 @@ to:
 ## 11. Conteúdos programáticos.  
 
 I. Principais construções de linguagens suportadas em ambientes de execução para
-linguagens de alto nível ( managed runtimes ) e a sua contextualização em
+linguagens de alto nível (managed runtimes) e a sua contextualização em
 diferentes paradigmas de programação, tendo como principal caso de estudo a
 máquina virtual Java.
 
-II. Principais constituintes dos ambientes de execução managed , nomeadamente:
-class loader , verifier , just-in-time compiler , metadados e gestão de memória.
+II. Principais constituintes dos ambientes de execução _managed_, nomeadamente:
+_class loader_, _verifier_, _just-in-time compiler_, metadados e gestão de memória.
 
 III. Comparação de sistemas de tipos para ambientes de execução managed quanto
 às regras de equivalência, compatibilidade e inferência.
 
-IV. API de reflexão em Java e casos práticos de metaprogramação no
+IV. API de reflexão em Java e Kotlin, incluindo casos práticos de metaprogramação no
 desenvolvimento de software.
 
 V. Modelo de pilha e registos. Análise das principais instruções bytecode Java
 apoiada em ferramentas de suporte à reflexão estrutural (e.g. ASM, Class-File
 API).
 
-VI. Introdução à análise de desempenho de programas Java e uso de ferramentas de
-monitorização da JVM (e.g. jconsole ).
+VI. Introdução à análise de desempenho de programas para a JVM e uso de ferramentas de
+monitorização e microbenchmarking (exemplo JMH).
 
 VII. Introdução aos algoritmos de garbage collection na JVM .
 
@@ -103,15 +104,15 @@ just-in-time compiler, metadata and memory management.
 III. Comparison of type systems for managed runtimes regarding: equivalence
 rules, compatibility and inference.
 
-IV. Java reflection API and metaprogramming case studies in software
+IV. Java and Kotlin reflection API and metaprogramming case studies in software
 development.
 
 V. Execution stack model and records. Analysis of the main Java bytecode
 instructions supported by tools for structural reflection (e.g. ASM, Class-File
 API).
 
-VI. Introduction to the performance analysis of programs written in Java, and
-the use of monitoring tools for the JVM (e.g. jconsole).
+VI. Introduction to the performance analysis of Java programs, and the use of
+monitoring tools and microbenchamrking (e.g. JMH).
 
 VII. Introduction to garbage collection algorithms in the JVM.
 
@@ -259,7 +260,28 @@ First Edition, http://leanpub.com/kotlinonjvm, 2024
 Benjamin Evans, Jason Clark, and Martijn Verburg, The Well-Grounded Java
 Developer, Second Edition, October 2022, ISBN 9781617298875
  
-## 17. Observações Obrigatória
+## 17. Objetivos de Desenvolvimento Sustentável (ODS)
 
-## 17. Remarks Mandatory
+* 8 Promover o crescimento económico inclusivo e sustentável, o emprego pleno e
+  produtivo e o trabalho digno para todos
 
+* 9 - Construir infraestruturas resilientes, promover a industrialização
+  inclusiva e sustentável e fomentar a inovação 
+
+* 12 - Garantir padrões de consumo e de produção sustentáveis 
+
+* 17 - Reforçar os meios de implementação e revitalizar a parceria global para o
+  desenvolvimento sustentável 
+
+## 17. Sustainable Development Goals
+
+* 8 - Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+
+* 9 - Build resilient infrastructure, promote inclusive and sustainable
+  industrialization and foster innovation
+
+* 12 - Ensure sustainable consumption and production patterns
+
+* 17 - Strengthen the means of implementation and revitalize the Global
+  Partnership for Sustainable Development
