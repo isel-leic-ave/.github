@@ -15,7 +15,7 @@ Semestral
 162
 
 5. Horas de contacto  
-Total 67h30,  T: 43h30,  TP: 9h00,  PL:15h00
+Total: 60    T: 36    TP: 9     PL: 15
 
 6. % Horas de contacto a distância  
 Até 25%
@@ -148,9 +148,9 @@ is as follows:
 ## 13. Metodologias de ensino e de aprendizagem específicas da unidade curricular articuladas com o modelo pedagógico.  
 
 O ensino teórico-prático é planeado durante o semestre em 30 aulas que
-correspondem a 67,5 horas de contacto (15 aulas de 3 horas e 15 aulas de horas e
-meia), organizados em 43,5 horas de Ensino teórico (T), 9 horas de Ensino
-teórico-prático (TP), e 15 horas de Ensino prático e laboratorial (PL). 
+correspondem a 60 horas de contacto, organizados em 36 horas de Ensino teórico
+(T), 9 horas de Ensino teórico-prático (TP), e 15 horas de Ensino prático e
+laboratorial (PL). 
 
 As aulas Teóricas (T) destinam-se à exposição de conceitos e definições
 teóricas, de modo expositivo dialogado, com momentos de análise e discussão de
@@ -174,9 +174,10 @@ validação dos conhecimentos.
 
 ## 13. Teaching and learning methodologies specific to the curricular unit articulated with the pedagogical model. 
 
-Theoretical and practical teaching is planned during the semester in 30 lectures
-that correspond to 67.5 of contact hours (15 lessons of 3 hours and 15 1.5
-hours). 
+The theoretical-practical instruction is planned over the course of the semester
+across 30 classes, amounting to 60 contact hours—organized into 36 hours of
+theoretical instruction (T), 9 hours of theoretical-practical instruction (TP),
+and 15 hours of practical and laboratory instruction (PL).
 
 Theoretical classrooms (T) are intended for the presentation of theoretical
 concepts and definitions in a dialogued expository manner, with moments of
